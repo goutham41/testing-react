@@ -1,0 +1,17 @@
+{
+  "counter": {
+    "value": 0
+  },
+  "todos": [
+    {
+      "status": false,
+      "id": 0.5761046796983034,
+      "title": "LEARN CYPRESS"
+    },
+    {
+      "status": false,
+      "id": 0.5322481726320842,
+      "title": "learn UNIT TESTING"
+    }
+  ]
+}
